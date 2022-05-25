@@ -65,7 +65,7 @@ html {
 }
 
 .header__content {
-    background-image: url(./assets/img/logo/image.png);
+    background-image: url("/assets/img/logo/image.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
