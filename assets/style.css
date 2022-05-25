@@ -65,7 +65,7 @@ html {
 }
 
 .header__content {
-    background-image: url("/assets/img/logo/image.png");
+    background-image: url("./assets/img/logo/image.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -79,7 +79,7 @@ html {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url("/assets/img/bg.png");  
+    background-image: url(".g/assets/img/bg.png");  
     z-index: -1;
 } 
 
